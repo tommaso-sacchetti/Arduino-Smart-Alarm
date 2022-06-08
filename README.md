@@ -1,4 +1,4 @@
-# Arduino-Smart-Alarm
+# Arduino Smart Alarm
 
 Project of UPV Distributed Systems of the year 2021/2022. </br>
 
